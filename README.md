@@ -1,14 +1,14 @@
-# Jeu de la vie ◼️
+# Game of life ◼️
 
-> Auteur : DOURNEL Frédéric
+> Author : DOURNEL Frédéric
 
-## But du projet 📍
+## Goal of this project 📍
 
-Ce projet est un projet que j'ai dû faire durant le 2ème semestre de BUT informatique. J'ai dû réalisé un jeu de la vie avec quelque paramètre sur l'état initial du plateau (génération random, en damier...) mais aussi pour les bordures du tableau (tores ou non).
+This project is a project I had to do during the 2nd semester of BUT informatique. I had to realize a game of life with some parameters on the initial state of the board (random generation, checkerboard pattern...) but also for the borders of the board (tore or not).
 
-## Technologies utilisées
+## Technologies use ⚙️
 
-Ce projet à été réalisé en C++ avec une interface graphique créé avec Qt Creator.
+This project was realized in C++ with a graphical interface created with Qt Creator.
 
 <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" width="110" />
